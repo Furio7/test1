@@ -13,6 +13,9 @@ public class classe1 { //normalement une classe commence toujours avec une Majus
 	/**
 	 * @param args
 	 */
+	
+	//test
+	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		//contenu de la classe
