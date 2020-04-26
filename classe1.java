@@ -15,6 +15,7 @@ public class classe1 { //normalement une classe commence toujours avec une Majus
 	 */
 	
 	//test
+	//autre test
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
